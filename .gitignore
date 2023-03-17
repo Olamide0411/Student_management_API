@@ -1,0 +1,5 @@
+good/
+__pycache__/
+.vscode/
+.env
+correction.txt
